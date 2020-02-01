@@ -1,6 +1,6 @@
 "Steve":{
    "head":{
-      "item":"player_head"
+      "item":"player_head",
       "owner":"Steve"
    },
    "chest":{
