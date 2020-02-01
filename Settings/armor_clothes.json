@@ -1,4 +1,4 @@
-"Clothings":[
+"Clothings":[{
    "Steve":{
       "head":{
          "item":"player_head",
@@ -17,4 +17,4 @@
          "color":"gray"
       }
    }
-]
+}]
