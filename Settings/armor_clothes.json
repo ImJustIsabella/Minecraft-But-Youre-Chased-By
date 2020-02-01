@@ -1,0 +1,18 @@
+"Steve":{
+   "head":{
+      "item":"player_head"
+      "owner":"Steve"
+   },
+   "chest":{
+      "item":"leather_chestplate",
+      "color":"light_blue"
+   },
+   "legs":{
+      "item":"leather_leggings",
+      "color":"blue"
+   },
+   "boots":{
+      "item":"leather_boots",
+      "color":"gray"
+   }
+}
